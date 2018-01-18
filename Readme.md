@@ -1,4 +1,6 @@
 # DataTables plug-in for jQuery
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FDataTables.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FDataTables?ref=badge_shield)
+
 
 DataTables is a table enhancing plug-in for the [jQuery](//jquery.com) Javascript library, adding sorting, paging and filtering abilities to plain HTML tables with minimal effort. The stated goal of DataTables is:
 
@@ -57,3 +59,6 @@ Support for DataTables is available through the [DataTables forums](//datatables
 ## License
 
 DataTables is release under the [MIT license](//datatables.net/license). You are free to use, modify and distribute this software, as long as the copyright header is left intact (specifically the comment block which starts with `/*!`.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FDataTables.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FDataTables?ref=badge_large)
